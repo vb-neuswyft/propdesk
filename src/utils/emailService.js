@@ -13,7 +13,7 @@
 // ─────────────────────────────────────────────────────────────────────────────
 
 const EMAILJS_CONFIG = {
-  SERVICE_ID:  "service_7bavw6l",    // e.g. "service_abc123"
+  SERVICE_ID:  "service_4pqagsj",    // e.g. "service_abc123"
   TEMPLATE_ID: "template_4qcvaiy",   // e.g. "template_xyz789"
   PUBLIC_KEY:  "r9nhuChDo8TkhnpCy",    // e.g. "user_AbCdEfGhIj"
   MANAGER_EMAIL: "admin@propdesk.ca",// Your email to receive notifications
